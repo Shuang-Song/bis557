@@ -1,0 +1,5 @@
+n <- 1000; p <- 25
+beta <- c(1, rep(0, p-1))
+X  <- matrix(rnorm(n * p), ncol = p)
+svals <- svd(X)$d
+max(svals)/min(svals)

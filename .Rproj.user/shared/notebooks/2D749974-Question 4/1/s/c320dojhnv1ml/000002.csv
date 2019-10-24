@@ -1,0 +1,7 @@
+"0","lambda <- 0.4"
+"0","svals <- svd(X)$d"
+"0","(max(svals) +  lambda) / (min(svals) + lambda)"
+"1","[1]"
+"1"," 106.4208"
+"1","
+"
