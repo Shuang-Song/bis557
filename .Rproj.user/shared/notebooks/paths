@@ -1,5 +1,3 @@
-/Users/shuang/Desktop/Question 4.Rmd="2D749974"
-/Users/shuang/Desktop/Untitled.Rmd="FEEBFB5A"
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/linear_model/R/linear_model.R="61BC67EA"
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/linear_model/tests/testthat.R="676F18C6"
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/linear_model/tests/testthat/test-gradient_descent.R="8D79534F"
@@ -7,3 +5,5 @@
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/ridge_regression/R/optimize_lambda.R="7C5CCA7F"
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/ridge_regression/R/predict.R="9BA25656"
 /Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/ridge_regression/R/ridge_regression.R="FA9A821C"
+/Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/ridge_regression/tests/testthat/test-optimize_lambda.R="C7042434"
+/Users/shuang/Documents/Courses/2019 Fall/Computational Statistics/ridge_regression/tests/testthat/test-ridge_regression.R="6FBD6831"
